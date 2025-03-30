@@ -6,7 +6,7 @@ Este projeto realiza web scraping para baixar arquivos PDF de um site do governo
 ## Metodologia de Desenvolvimento
 O desenvolvimento deste projeto foi organizado utilizando o **Kanban**, uma metodologia ágil. O Kanban ajudou a organizar as tarefas, gerenciar o fluxo de trabalho e garantir que as atividades fossem realizadas de forma eficiente e com foco na entrega contínua. O uso dessa metodologia permitiu a priorização das tarefas e acompanhamento do progresso de cada etapa do desenvolvimento.
 
-![trello](./assets/trello.gif)
+![trello](./assets/Trello.gif)
 
 ## Tecnologias Utilizadas
 - **Java**
