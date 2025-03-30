@@ -5,7 +5,7 @@ import java.nio.file.Paths;
 public class Model {
 
     private static final String BASE_URL = "https://www.gov.br";
-    private static final String PAGE_URL = "https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-dasociedade/atualizacao-do-rol-de-procedimentos";
+    private static final String PAGE_URL = "https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos";
     private static final String DOWNLOAD_FOLDER = "downloads/";
     private static final String ZIP_FILE = "anexos.zip";
 
